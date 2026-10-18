@@ -4,7 +4,7 @@
 
 I'm a Computer Science student at **Ain Shams University**, passionate about software engineering, backend development, and building practical applications.
 
-I enjoy designing RESTful APIs, working with databases, solving complex problems, and developing secure, scalable software. I'm currently strengthening my full-stack development skills while exploring cybersecurity and AI/ML.
+I enjoy designing RESTful APIs, working with databases, solving complex problems, and developing secure, scalable software. I'm continuously strengthening my full-stack development skills while also building my knowledge in cybersecurity and AI/ML.
 
 ---
 

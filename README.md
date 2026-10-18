@@ -50,7 +50,6 @@ I enjoy designing RESTful APIs, working with databases, solving complex problems
 
 ---
 
-
 ### 🌱 Currently Focusing On
 
 - Building robust backend systems with ASP.NET Core.
@@ -63,12 +62,9 @@ I enjoy designing RESTful APIs, working with databases, solving complex problems
 
 ### 🤝 Let's Connect
 
-I'm always open to connecting with developers, collaborating on projects, and exploring internship opportunities.
-
-
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/mahmoudelbadawyy)
 - **Email:** Elbadawy2005@gmail.com
 
 ---
 
-⭐ *Always learning. Always building. Always improving.*
+⭐ *Check out my projects and explore what I've been building.*
